@@ -1,0 +1,54 @@
+body {
+  background:white;
+  height: 100%;
+  font-family: Montserrat;
+  }
+
+.sobre{
+  padding: 0;
+  margin: 0;
+  color: white;
+  background: #FB8500;
+}
+
+.hobby{
+  color: white;
+  background: #FFB703;
+}
+
+.comidas{
+  color: white;
+  background: #FFB703;
+}
+.esporte{
+  color: white;
+  background: #FFB703;
+}
+
+.geek{
+  color: white;
+  background: #FFB703;
+}
+
+.series{
+  color: #023047;
+}
+
+.filmes{
+  color: #023047;
+}
+
+.livros{
+  color: #023047;
+}
+
+
+ul {
+  background: #219EBC;
+  padding: 20px;
+}
+
+ul li {
+  background: white;
+  margin: 5px;
+}
