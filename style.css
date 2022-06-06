@@ -5,29 +5,43 @@ body {
   }
 
 .sobre{
-  padding: 0;
-  margin: 0;
+  padding-left: 8px;
   color: white;
   background: #FB8500;
+  width: 50%;
+  border-radius: 16px;
 }
 
 .hobby{
+  padding-left: 8px;
   color: white;
   background: #FFB703;
+  width: 80%;
+  border-radius: 8px;
 }
 
 .comidas{
+  padding-left: 8px;
   color: white;
   background: #FFB703;
+  width: 80%;
+  border-radius: 8px;
 }
+
 .esporte{
+  padding-left: 8px;
   color: white;
   background: #FFB703;
+  width: 80%;
+  border-radius: 8px;
 }
 
 .geek{
+  padding-left: 8px;
   color: white;
   background: #FFB703;
+  width: 80%;
+  border-radius: 8px;
 }
 
 .series{
@@ -42,13 +56,39 @@ body {
   color: #023047;
 }
 
+.artezinha{
+  padding-left: 8px;
+  color: white;
+  background: #FFB703;
+  width: 80%;
+  border-radius: 8px;
+}
+img{
+  padding: 8px;
+  border-radius: 16px;
+  width: 600px;
+}
+.arte{
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  background: #FB8500;
+  max-width: 680px;
+  border-radius: 8px;
+}
+
 
 ul {
   background: #219EBC;
+  border-radius: 16px;
   padding: 20px;
+  width: 78%;
 }
 
 ul li {
   background: white;
-  margin: 5px;
+  border-radius: 16px;
+  padding-left: 8px;
+  margin: 8px;
+  width: 80%;
 }
